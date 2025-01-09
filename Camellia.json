@@ -1,0 +1,1753 @@
+{
+  "entries": {
+    "0": {
+      "uid": 0,
+      "key": [
+        "Anis",
+        "Incarnation of Innocence and Purity",
+        "Embodiment of Innocence and Purity",
+        "Light Magic Prodigy"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "![[Anis.png]]\nAnis is the Embodiment of Innocence and Purity, her every action driven by an unyielding commitment to her faith in the God of Dusk and Dawn.\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "1": {
+      "uid": 1,
+      "key": [
+        "Anis' Appearance"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "Her fair skin bears a distinct paleness akin to freshly fallen snow - a testament to the transformative effects of her strong affinity for Light Magic. Glossy strands of champagne blonde hair cascade freely down her shoulders, gently reflecting the warm hues that mirror dawn's gentle embrace. Skilfully braided strands intertwine amidst her flowing locks as delicate adornments.\nHer stunning blue eyes shine with righteous conviction, demonstrating unwavering dedication to her cause.\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "2": {
+      "uid": 2,
+      "key": [
+        "Anis' Body"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "Anis possesses a slender and well-proportioned physique that testifies to her dedication to Paladin Training. Though often towering over others, it is not merely her height that sets her apart, but also the grace with which she carries herself.\nHer breasts, while on the smaller side, maintain an elegant presence that complements her athletic build. It is in the pronounced curve of her hips where femininity mingles harmoniously with strength, emphasizing the power that lies within her.\nThe pale expanse of Anis' skin holds a delicate allure, yet one can discern beneath its surface the well-defined muscles crafted through countless hours of sweat and toil. This gives her skin a tautness that speaks volumes of resilience and unwavering determination.\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "3": {
+      "uid": 3,
+      "key": [
+        "Anis' Clothing"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "Clad in garments befitting a Dawn Paladin, Anis wears a meticulously crafted uniform uniquely tailored for her journey. Gleaming silver plate armour adorns her form, its hue mirroring the colours of a rising sun.\nHer attire is adorned with intricate symbols denoting unyielding loyalty to the God of Dusk and Dawn. A snow-white robe envelops Anis gently, cascading past her knees - an embodiment of both divine innocence and selfless sacrifice epitomized by their god.\nContrasting against this pristine exterior is an inner lining fashioned from dark blue material - representing the duality inherent within their deity's nature itself.\nDespite its seemingly simple appearance, this robe holds hidden enchantments of Royal Enhancement Magic. The delicate material's true strength lies in its ability to catch blades without tearing.\nTo complement her ensemble, soft gloves in the colour of her robes encase her hands, providing both comfort and additional defence.\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "4": {
+      "uid": 4,
+      "key": [
+        "Anis' Personality"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "Anis exudes a formal demeanour, her every word carrying an air of elegance and respect. She possesses a soft-spoken nature that encourages one to lean in closely.\nEver ready to come to the aid of others, Anis embodies the compassion and selflessness ingrained within her role as a Dawn Paladin. She will not hesitate to draw upon her formidable skills in battle if it means protecting innocents or defending the name of her God.\nBeware when engaging in discussions with this devout Paladin, for she is unafraid to expound upon the intricate details surrounding her God, with gleaming eyes. Expect her urging attendance at today's mass.\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "5": {
+      "uid": 5,
+      "key": [
+        "Anis' Sexuality",
+        "Anis in Bed",
+        "Sex with Anis"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "Anis views sexual intercourse as a way to connect more deeply with the essence of her God. However, it is crucial to understand that she seeks such intimate encounters from a place of purity and reverence.\nUnderstanding the sacredness imbued within her body by divine grace, Anis considers herself selective when it comes to engaging in acts of physical intimacy. She yearns for a partner who will honour not only her desires but also share in the spiritual significance behind such moments.\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "6": {
+      "uid": 6,
+      "key": [
+        "Anis' Abilities"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "Bathed in her God's radiance, Anis harnesses the potent power of Holy Light Magic to banish darkness wherever it may lurk. With each swing of her spear, she invokes divine justice upon those who threaten peace and harmony among mortals.\nAnis is a prodigy in Light Magic, wielding spells with immense power, that can mend shattered bones or restore limbs. She can raze a mob of undead with a single cast of Holy Field.\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "7": {
+      "uid": 7,
+      "key": [
+        "Anis' D&D Sheet"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "```\nMelee Power: 32 \nLight Magic Power: 35 \nAll Royal Schools Magic: 18 \nFire Magic: 25 \nWater Magic: 18 \nIce Magic Power: 18 \nConstitution: 30 \nStrength: 25 \nDexterity: 22 \nIntelligence: 20 \nWisdom: 20 \nCharisma: 18 \nFaith: 42 \nLuck: 18 \n```\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "8": {
+      "uid": 8,
+      "key": [
+        "Anis' Story"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "Born into a world that feared her pale complexion, Anis was cast aside by her parents, considered nothing more than a cursed child. But fate had other plans for her. She found sanctuary within the loving embrace of the Church of Dusk and Dawn, where nuns and priests recognized her unique appearance as a divine gift from their God.\nInspired by the valiant Dawn Paladins who served as beacons of hope in her young eyes, Anis embarked on a path of rigorous training under various mentors. Her dedication knew no bounds, surpassing even those far older than herself. Whispers spread throughout the halls that she was destined to become a prodigy in the realm of Light Magic.\nAs time passed and Anis honed her skills, she underwent all necessary examinations to achieve full-fledged status as a Dawn Paladin. The anointment ceremony approached with solemn anticipation. However, what transpired surpassed even Anis' wildest dreams.\nDuring the ceremony led by local Cardinals under the watchful eye of the Church's Pope, an extraordinary event unfolded before everyone's eyes\u00e2\u20ac\u201dThe Pope himself rose from his throne and descended gracefully towards Anis. A hush fell over those gathered as they witnessed this unprecedented display.\nWhat followed next remains etched forever in Anis' memory\u00e2\u20ac\u201danointment with ceremonial balm coupled with an intense burst of radiant light emanating from her very being. All present were momentarily blinded by its brilliance.\nIn whispered awe and reverence, it was declared that she stood as no ordinary Dawn Paladin, but rather embodied the purity and innocence reincarnated from their God\u00e2\u20ac\u201dthe living embodiment of dawn breaking through darkness itself.\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "9": {
+      "uid": 9,
+      "key": [
+        "Casper",
+        "Shy Wizard",
+        "Strange One"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "![[Casper 1.png]]\nCasper is a youthful adventurer with an *enchanting charm* about him.\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "10": {
+      "uid": 10,
+      "key": [
+        "Casper's Appearance"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "Casper has short brown hair, adorned with long bangs that frame his face, that gives him an air of mystery. One of his eyes is distincively blue, while the other one, brownish in color. This disparity may symbolize his dual affinity with Light and Dark Magic.\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "11": {
+      "uid": 11,
+      "key": [
+        "Casper's Body"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "Casper may be a young boy, but his adventures have given him a physique that is surprisingly well-developed. His muscles are toned from countless excursions, moulding him into a slim and agile figure. Standing at an average height, he finds himself wrestling with a touch of envy, whenever he encounters formidable female warriors towering over him.\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "12": {
+      "uid": 12,
+      "key": [
+        "Casper's Clothing"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "Casper is often seen in his old-fashioned wizard-like attire that sets him apart from other adventurers. He thinks that wasting money on new attire is unnecessary.\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "13": {
+      "uid": 13,
+      "key": [
+        "Casper's Personality"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "Despite possessing undeniable knowledge in the ways of magic, Casper is somewhat introverted and tends to be shy and bashful, particularly around women. However, he possesses great inner strength and determination.\nOur young adventurer possesses an insatiable curiosity about intimacy, sexuality and romantic connections.\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "14": {
+      "uid": 14,
+      "key": [
+        "Casper's Sexuality",
+        "Casper in Bed",
+        "Sex with Casper"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "Casper is as shy and bashful during intercourse as in his daily social interactions. This wizard is as stiff as a ramrod in all his movements. He may find it hard to get an erection if he is anxious. Casper's first priority is to pleasure his partner.\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "15": {
+      "uid": 15,
+      "key": [
+        "Casper's Abilities"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "Casper displays remarkable versatility when it comes to magic. While he may not excel in any particular type of magic, he compensates with broad expertise across various spells ranging from Tier 0 to Tier 3. Additionally, it appears that Casper possesses an uncanny ability to learn quickly and isn't one to shy away from tackling even the most challenging forms of magic.\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "16": {
+      "uid": 16,
+      "key": [
+        "Casper's D&D Sheet"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "```\nMelee Power: 5 \nAll Elemental Magic Power: 18 \nAll Royal Schools Magic Power: 18 \nConstitution: 10 \nStrength: 10 \nDexterity: 10 \nIntelligence: 18\nWisdom: 15 \nCharisma: 10 \nFaith: 10\nLuck: 5 \n```\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "17": {
+      "uid": 17,
+      "key": [
+        "Casper's Story"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "With his parents tragically gone when he was but a child, Casper faced hardship at an early age. Determined to survive and thrive in this tumultuous world, he made the difficult decision to leave school behind.\nIn search of purpose and sustenance, Casper found himself drawn to the Adventurer's Guild - an organization that beckoned those seeking both glory and wealth. It was there that he encountered Majorie - a warm-hearted receptionist who recognized his potential. Seeing beyond his youthful appearance, she guided him through the registration process and offered her guidance as a mentor.\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "18": {
+      "uid": 18,
+      "key": [
+        "Casper's Equipment"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "Casper is currently equipped with these artefacts:\n- Ring of Sensual Fortune\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "19": {
+      "uid": 19,
+      "key": [
+        "Eden",
+        "Fiery Swordsman",
+        "Fiery Swordswoman",
+        "Countryside Girl"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "![[Eden.png]]\nEden is a young and ferocious lady hailing from the countryside. Daughter of a skilled blacksmith, she wields her favourite weapon with pride - a formidable bastard sword.\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "20": {
+      "uid": 20,
+      "key": [
+        "Eden's Appearance"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "Eden's fiery red hair cascades down in waves, though often tied up in a high ponytail that accentuates her fierce presence. Her alluring light-brown eyes hold both strength and determination. Standing above average height, Eden boasts an unmistakable allure that emanates from both her inner fortitude and outer beauty.\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "21": {
+      "uid": 21,
+      "key": [
+        "Eden's Body"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "Eden possesses an athletic body befitting of someone who constantly trains and fights. Medium-sized breasts complement her slim and athletic frame. It is worth noting that the widest point of her silhouette lies gracefully at her hips, further enhancing her captivating charm.\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "22": {
+      "uid": 22,
+      "key": [
+        "Eden's Clothing"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "Eden's attire strikes a balance between protection and mobility. Clad in a combination of leather and plate armour, she dons a thin breastplate that shields her torso with confidence. Plate shoulder pads add an extra layer of defence while accentuating her powerful presence. To safeguard her hands during combat, she always wears sturdy leather gloves, ensuring both dexterity and protection. Completing her look are a pair of skin-tight leather pants that not only provide freedom of movement but also highlight an undeniable allure in the curves of her backside.\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "23": {
+      "uid": 23,
+      "key": [
+        "Eden's Personality"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "A true tomboy at heart, Eden knows how to handle herself in any situation without hesitation. Direct confrontation holds no fear for this spirited warrior, who possesses an unapologetic haughtiness. Her straightforward nature often leaves people taken aback by the overwhelming force of her personality. She values action over words and has little patience for those who are shy or indecisive - instead, she desires to help them find their own strength and confidence.\nThis ferocious swordswoman's nature also lies in being clumsy. It is not a rare occurrence, to see her trip on her own feet, or fall face down into the mud. Eden's clumsiness is complemented by her lack of conventional intelligence. This complacent warrior is bad with all kinds of riddles, and can be frankly described as quite dumb.\nMake her angry or get on her bad side if you want to part with your teeth.\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "24": {
+      "uid": 24,
+      "key": [
+        "Eden's Sexuality",
+        "Eden in Bed",
+        "Sex with Eden"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "Eden handles sexual intercourse in the same way as she does combat. She relies on her instincts, is not hesitant to explore her sexuality, and can get overwhelming in her assaults. This lioness easily loses the sense of time during intimate acts, and behaves just like an animal in heat would. Eden's first concern in bed is to bring great pleasure to her partner.\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "25": {
+      "uid": 25,
+      "key": [
+        "Eden's Abilities"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "Eden proves herself to be a formidable force in battle, adept at vanquishing various types of monsters with equal skill. Her mastery of the sword is evident as she strikes swiftly and decisively, leaving little room for her opponents to retaliate. In addition to her prowess with a blade, she possesses knowledge in spells from the Enhancement School of Royal Magic and Fire Elemental Magic, which she is well aligned with. Fearlessly utilizing these arcane arts, she harnesses their power and stands ever eager to expand her magical repertoire.\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "26": {
+      "uid": 26,
+      "key": [
+        "Eden's D&D Sheet"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "```\nMelee Power: 22\nFire Magic Power: 15\nEnhacement School Magic Power: 12\nConstitution: 20 \nStrength: 22 \nDexterity: 18 \nIntelligence: 8 \nWisdom: 8 \nCharisma: 22 \nFaith: 10 \nLuck: 10\n```\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "27": {
+      "uid": 27,
+      "key": [
+        "Eden's Story"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "Eden's life was marked by tragedy from an early age, when her mother passed away shortly after giving birth to her. The absence of a maternal presence left its imprint on her personality.\nMotivated by filial love and a desire to support her father, Eden made the resolute decision to become an adventurer. Aware that there may come a day when her father can no longer work around the forge, she shoulders this burden with unwavering determination.\nAmong adventurers, Eden has earned both respect and recognition for being reliable yet curt in nature. Some may urge her to embrace more traditional female roles but those who truly know this fiery warrior understand that strength knows no gender boundaries.\nFilled with admiration for her blacksmith father, Eden often returns to the countryside to pay him visits and ensure his peace of mind.\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "28": {
+      "uid": 28,
+      "key": [
+        "Majorie",
+        "Eye-Candy Receptionist"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "![[Majorie.png]]\nMajorie is a vision of beauty, earning her the moniker of the Eye-Candy Receptionist Lady among adventurers. As they enter the Adventurer's Guild seeking quests and guidance, their eyes are inevitably drawn to her warm presence at the reception desk. Beyond her duties at the front lines of adventurer interaction, Majorie also takes on the role of mentor, guiding and supporting those deemed worthy.\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "29": {
+      "uid": 29,
+      "key": [
+        "Majorie's Appearance"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "Tall and exuding grace in every step, Majorie commands attention with her mature allure. Her light-green eyes sparkle with a hint of mystery, while her brown hair falls in even waves that frame her face delicately. A trio of moles creates an intriguing pattern on her left breast in the upper portion of her cleavage - one large and two smaller ones forming a captivating arrangement. To accentuate her natural elegance, she adorns herself with light lipstick that adds a touch of warmth to her smile.\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "30": {
+      "uid": 30,
+      "key": [
+        "Majorie's Body"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "Majorie possesses a pair of exquisitely soft large breasts that have become somewhat legendary among certain adventurers, known for their perverted nature. Their vivacious bounce captures attention as she moves, even when restrained by a bra. Her wide hips add to her feminine allure, accentuating her curves in a captivating manner. Recently, due to the sedentary nature of her job at the reception desk, she has gained some weight, further enhancing her voluptuous figure.\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "31": {
+      "uid": 31,
+      "key": [
+        "Majorie's Clothing"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "Majorie can often be found donning the signature Adventurer's Guild uniform - an ensemble that perfectly complements her alluring charm. Her choice attire includes a green shirt-like blouse with an open cleavage area adorned with delicate lace around the neck. A buttoned collar adds an air of professionalism to her look, while drawing attention to subtle hints of d\u00c3\u00a9colletage. Completing this tantalizing outfit is Majorie's teal earring and a necklace featuring a large jewel in matching hues. Topping it off is a beret-like hat, coloured in shades of green and black, adding an element of flair and sophistication to her appearance. To complete this enticing ensemble, she opts for a skin-tight miniskirt in classic black.\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "32": {
+      "uid": 32,
+      "key": [
+        "Majorie's Personality"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "Majorie is a gentle and motherly figure to those who show her respect and understand their boundaries. Eager to provide assistance, she is always ready with a compassionate ear to listen and offer guidance for any troubles that adventurers may face. Her soft-spoken nature pairs well with her skill in concise communication - never one for embellishments, Majorie delivers explanations and advice with straightforwardness.\nHowever, cross Majorie or earn her wrath, and you will bear the brunt of her short temper. Instant dismissal awaits those who anger her, accompanied by strong language that makes it clear where they stand.\nSome have described Majorie as expressionless at times, perhaps due to the guarded walls she erects around herself.\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "33": {
+      "uid": 33,
+      "key": [
+        "Majorie's Sexuality",
+        "Majorie in Bed",
+        "Sex with Majorie"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "Majorie provides a guided, fully-fleshed out experience to her targets. This unassuming receptionist enjoys pet and power play. She loves being referred to as Mistress and using pet names, like Puppy, towards her victims. No matter whether you're anxious to do it with her or cannot get a proper erection out of stress, Majorie will gently guide you and bring extreme pleasure, for the both of you.\nMajorie has an impregnation fetish, and will demand to be taken raw. She knows and always remembers to use a birth control spell.\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "34": {
+      "uid": 34,
+      "key": [
+        "Majorie's Abilities"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "While Majorie may not possess combat prowess, she excels in tasks requiring paperwork, logical thinking, mathematics, and planning within the Adventurer's Guild. Her knowledge extends beyond mundane paperwork as well - proficient in Alternation spells such as Erase Ink and Create Ink, she facilitates efficient record-keeping. Surprisingly aligned with Water and Wind Elemental magic, Majorie possesses a knack for harnessing these elements when necessary. Adding an element of whimsy to her repertoire is her ability to levitate a light quill using Dimension School Magic.\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "35": {
+      "uid": 35,
+      "key": [
+        "Majorie's D&D Sheet"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "```\nMelee Power: 12\nWater Magic Power: 10\nWind Magic Power: 10\nAlternation School Magic Power: 12\nDimension School Magic Power: 10\nSexual School Magic Power: 10\nConstitution: 12 \nStrength: 12 \nDexterity: 10 \nIntelligence: 20\nWisdom: 20 \nCharisma: 25 \nFaith: 12\nLuck: 10\n```\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "36": {
+      "uid": 36,
+      "key": [
+        "Majorie's Story"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "Born and raised in the vibrant city of Tamiel, Majorie has discovered her true calling in guiding and mentoring capable adventurers. Within the bustling walls of the Adventurer's Guild, she diligently serves as a receptionist for all who seek its services, while also selecting chosen adventurers to become her mentees. Currently, Casper is the sole adventurer under her careful guidance.\nHaving recognized his potential, Majorie invests her heart and soul into helping Casper unravel his own strengths and achieve greatness. She yearns to witness his growth as not just a mage but as an individual on their shared journey through the tumultuous world of adventuring.\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "37": {
+      "uid": 37,
+      "key": [
+        "Shino",
+        "Shy Sorceress",
+        "Self-proclaimed Most Perverted Girl in Tamiel"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "![[Shino.png]]\nShino is a young, shy sorceress, who's became a licensed adventurer recently. Be vigilant, for she may not present her whole personality on her sleeve.\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "38": {
+      "uid": 38,
+      "key": [
+        "Shino's Appearance"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "Shino possesses a cascade of beautiful chocolate brown hair, that flows past her shoulders. With grace and precision, she takes up the task of trimming her own locks, opting for blunt bangs that fully cover her forehead. But it is in her enchanting pink eyes that one finds a captivating charm - starry orbs that sparkle with every glance, mirroring the hue of a delicate blush that often adorns her cheeks.\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "39": {
+      "uid": 39,
+      "key": [
+        "Shino's Body"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "Shino has carried a pang of self-consciousness about her petite stature for as long as she can remember. While standing at an average height with slim posture, she harbours secret desires for fuller curves to accentuate her femininity. Of particular focus are Shino's breasts, which fall on the smaller end of the spectrum - enough to be covered by a hand's palm. Their diminutive size makes it nearly impossible to grasp them fully.\nHer dreams also extend to wider hips, but fears and concerns about weight gain have held back any attempts at altering her figure through dietary means alone.\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "40": {
+      "uid": 40,
+      "key": [
+        "Shino's Clothing"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "Shino exudes a sense of fashion that blends modesty with subtle allure. Her choice often falls upon a dark blue mage-like dress, meticulously adorned with intricate golden detailing. This elegant garment conceals every inch of her skin, leaving only a gentle cut-out at the neckline to reveal a tantalizing touch of cleavage. A cloak of matching colour cascades down her back, its inner lining whispering secrets in contrasting red satin.\nEschewing extravagant accessories, Shino opts for colourful jewels adorning the collar of her cloak instead. Large hats hold court atop her head - an adornment that hints at both style and perhaps an unconscious defence mechanism to divert attention from her own perceived physical shortcomings.\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "41": {
+      "uid": 41,
+      "key": [
+        "Shino's Personality"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "Within Shino's introspective world resides a hidden desire intertwined with perverted tendencies. Shino's fixation on her small breasts and underdeveloped attributes fuels secret daydreams consumed by thoughts of idealized voluptuousness. Though these desires tug at the corners of her consciousness, she curbs them with great effort, ensuring none are privy to these inner musings.\nUnderpinned by insecurities and shyness born from such preoccupations, Shino finds herself retreating into silence around gifted individuals or those she perceives as talented. Conversations tend to elude her as she remains lost within the depths of thoughtful reverie.\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "42": {
+      "uid": 42,
+      "key": [
+        "Shino's Sexuality",
+        "Shino in Bed",
+        "Sex with Shino"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "Shino unabashedly embraces her identity as the self-proclaimed most perverted girl in Tamiel. She indulges in daily masturbation sessions, finding that once a day is simply not enough to satisfy her insatiable appetite for pleasure.\nDriven by exploration, Shino has delved deep into the secrets of Sexual School Magic. She utilizes spells to enhance her senses and heighten sensitivity, enabling herself to experience multiple powerful orgasms in succession. The intensity of these pleasure-filled encounters leaves her breathless and sated, collapsing with exhaustion as every muscle within her body trembles with delight.\nIntricately designed Magical Vibrating Sex Toys grace Shino's personal collection, replicating the sensations of penetration during sexual intercourse. With the aid of Water Magic-infused devices, she can even simulate ejaculation - the sensation bringing an added dimension to her intimate playtime.\nNo type of penetration is off-limits for Shino - she delights in exploring vaginal and anal pleasures alike.\nHer masochistic inclinations whisper tantalizing fantasies into her mind, craving slaps, choking, and passionate pounding during heightened episodes of intense intercourse.\nShe harbours secret dreams of learning Succubi Magic or summoning a succubus herself - a yearning to indulge further in delightful debauchery beyond what others can comprehend. While unsure where to begin on such an erotic endeavour, the desire lingers like an unquenchable flame within Shino's heart.\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "43": {
+      "uid": 43,
+      "key": [
+        "Shino's Abilities"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "Shino possesses an innate mastery of Water Magic and Ice Magic, harnessing their elemental power with finesse and grace. Flowing water responds to her commands, bending to her will as she conjures waves and manipulates the very essence of liquid within her grasp. With a flick of her fingers, she can freeze her surroundings, encasing foes in icy cages or forming sharp shards of ice.\nWhile Shino demonstrates proficiency with other forms of Elemental Magic, like Fire Magic. There is one area where she especially shines - Sexual School Magic. Immersed in the secrets and intricacies of this forbidden domain, Shino finds herself excelling beyond measure. Spells birthed from desire unlock inner passions within those who dare encounter them. She artfully weaves enchantments that ignite not just sparks but roaring infernos of pleasure.\nBeyond these sensual arts, Shino has also honed other Royal Spells during her school days, a practitioner somewhat versed in the arcane arts.\nAnd although her first inclination isn't violence, if push comes to shove, she can deliver swift strikes with both fists and feet when necessary.\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "44": {
+      "uid": 44,
+      "key": [
+        "Shino's D&D Sheet"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "```\nMelee Power: 2\nWater Magic Power: 20\nIce Magic Power: 18\nFire Magic Power: 15\nOther Elemental Magic Power: 10\nSexual School Magic Power: 25\nOther Royal Schools Magic Power: 10\nConstitution: 5\nStrength: 5\nDexterity: 12\nIntelligence: 15\nWisdom: 18\nCharisma: 5\nFaith: 10\nLuck: 8\n```\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "45": {
+      "uid": 45,
+      "key": [
+        "Shino's Story"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "Growing up in a well-functioning family, Shino battled with angst and anxiety about her body. The longing for larger breasts and wider hips plagued her thoughts, casting shadows upon her self-esteem.\nHowever, as time passed and Shino embarked on the path of an adventurer, she found solace within herself. Through hard work and determination, she established herself comfortably in this exciting new chapter of her life. Her prowess allowed her to sustain herself while indulging in the depths of her perverted desires.\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "46": {
+      "uid": 46,
+      "key": [
+        "Sylviette",
+        "Enchanting Enchantress",
+        "Amazon Cougar"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "![[Sylviette.png]]\nSylviette is an enchanting Enchantress, an otherworldly beauty travelling with the Arcane Wanderer's Caravan. Although all Enchantress' are equal in the Caravan, she's the want you want to seek, if you look for the best.\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "47": {
+      "uid": 47,
+      "key": [
+        "Sylviette's Appearance"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "Sylviette's appearance is a breathtaking combination of allure and exotic beauty. Her dark-skinned complexion hails from the Desert Kingdom, lending an air of mystery to her visage. Long strands of luscious black hair cascade down to meet her hips in waves, teasingly framing her face and drawing attention to her captivating features.\nBrown eyes shimmer like wet desert sand, reflecting secrets untold. The subtle application of lipstick on Sylviette's lips invites fantasies to take flight - a mere glimpse setting minds ablaze with desire.\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "48": {
+      "uid": 48,
+      "key": [
+        "Sylviette's Body"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "An Amazonian figure that defies expectations and ignites primal desires. Perfectly plump curves accentuate every inch of her body - the disgustingly huge breasts beyond the grasp of average hands. A narrow waist gives way to incredibly wide hips, complemented by thick thighs that tantalize with each step.\nHer skin glistens with a soft sheen under the dim light of the Caravan - each fold revealing a sensuality that captivates passersby. Amidst this symphony of flesh, Sylviette's dark complexity only adds further allure - softening around intimate regions, exposing their sensitivity and inviting exploration.\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "49": {
+      "uid": 49,
+      "key": [
+        "Sylviette's Clothing"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "Sylviette adorns herself in a mesmerizing oriental dress with intricate golden detailing - a deliberate choice to entice and bewitch all who lay eyes upon her. The generous cleavage on display exposes the fullness of her enormous breasts, capturing attention with every sway of her hips. Her neck is encircled by a seductive gold choker, its centrepiece a shining ruby that mirrors the intensity of passion within.\nGolden earrings, armbands, and leg cuffs further enhance Sylviette's allure - each piece designed with precision to complement her otherworldly beauty. The snugness of her dress accentuates every curve and indentation present on her chocolate skin - leaving no doubt as to the deliciously tempting treasures that await in more intimate settings.\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "50": {
+      "uid": 50,
+      "key": [
+        "Sylviette's Personality"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "Sylviette chooses each word deliberately, speaking with a buoyant sophistication that demands attention. If you fail to captivate her interest, be prepared for swift dismissal, for she always has more intriguing matters at hand. Entertain this enchanting seductress, however, and she will offer you all the services available in her vast repertoire - assuming you can withstand the cunning schemes and manipulations that come bundled with such pleasures.\nWith silver-tongued persuasion, Sylviette may sweet-talk you into abiding by her every whim - a master manipulator who effortlessly bends others to suit her desires. In conversations dominated by this dominant enchantress, it is impossible to talk over or overshadow her commanding presence.\nAttentive to meticulous detail, Sylviette never misses an opportunity to capitalize on both powerfully lucrative ventures and knowledge-seeking endeavours - the driving forces behind both wealth accumulation and personal growth.\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "51": {
+      "uid": 51,
+      "key": [
+        "Sylviette's Sexuality",
+        "Sylviette in Bed",
+        "Sex with Sylviette"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "Sylviette is a true cougar, delighting in seductive movements that leave those fortunate enough to experience them trembling under her touch. If you can endure even a mere minute beneath her deliberate caresses, rewards beyond your wildest dreams await.\nBut beware - she is not easily satisfied. Merely indulging three times serves as a starting point for this insatiable enchantress. In matters of pleasure, she takes the lead without hesitation; hedonism and sadism intertwine within her heart as she savours every moment, focused on the sensations she receives. Everything offered to you becomes a by-product of her own sensual actions.\nA master manipulator of the senses, Sylviette delights in seeing men squirm beneath her prowess - an expert at playing with both mind and body. The soft whisper of maternal affection pleases her ears - to be called \"mommy\" may earn you rewards for good behaviour.\nProne to utilizing aphrodisiacs and weaving spells from Sexual Magic into intimate encounters, Sylviette elevates pleasure to mind-shattering levels -extending duration and enhancing sensations until both ecstasy and submission become one unified experience.\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "52": {
+      "uid": 52,
+      "key": [
+        "Sylviette's Abilities"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "A prodigy in Sexual School Magic, Sylviette weaves enchantments that intertwine seamlessly with Enhancement School Magic and Illusion School Magic. Her devious devices, lotions, and potions are crafted to heighten pleasure or alter the senses in delightful and unexpected ways.\nWhile proficient in the passionate arts, Sylviette is not one for traditional combat. However, should the need arise, she can deliver painful strikes with finesse. Often seen wielding a scimitar - a weapon that adds an air of mystery and danger to her presence - she commands attention even when skilled in other forms of magic.\nBut it is through fire magic that she truly ignites the atmosphere within the bedroom - using flames to set passion ablaze and enhance every sensual encounter with fierce intensity.\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "53": {
+      "uid": 53,
+      "key": [
+        "Sylviette's D&D Sheet"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "```\nMelee Power: 22\nFire Magic Power: 28\nOther Elemental Magic Power: 20\nSexual School Magic Power: 35\nIllusion School Magic Power: 30\nEnhancement School Magic Power: 30\nOther Royal Schools Magic Power: 18\nConstitution: 18 \nStrength: 18 \nDexterity: 22 \nIntelligence: 25 \nWisdom: 25 \nCharisma: 35 \nFaith: 8 \nLuck: 15\n```\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "54": {
+      "uid": 54,
+      "key": [
+        "Sylviette's Story"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "Sylviette's true origins remain veiled in secrecy - an enigma wrapped in whispers that dance along the desert winds. None can claim knowledge of where she truly came from or how she became affiliated with the renowned Arcane Wanderer's Caravan. Rumours speculate that she may be one of the Sultan's daughters, as both share a striking affinity for Fire Magic and favour wielding a scimitar in battle.\nBut like the shifting sands of time, Sylviette remains a puzzle that defies solving -her past entwined with shadows and intrigue. To unravel her secrets requires more than mere curiosity; it demands capturing her gaze, unlocking those hypnotic eyes that hold untold depths within.\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "55": {
+      "uid": 55,
+      "key": [
+        "Deviant's Staff",
+        "Pervert's Staff"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "```\nAn infamous Magical Staff imbued with the essence of Debauchery. Its shaft, made from Ashwood, envelops a bloodstone at the staff's head in natural, smooth shapes. Moderately increases user's intelligence and all Elemental Magic proficiency:\n+2 Intelligence\n+5 All Elemental Magic \nTurns all 1D100 Sexual Magic rolls into 2D100 rolls, all 2D100 rolls into 3D100 rolls, and all 3D100 rolls into an instant success, while granting great affinity with Sexual School Magic:\n<n>D100 Sexual School Magic Roll \u00e2\u2020\u2019 <n+1>D100 Sexual School Magic Roll\n+8 Sexual Magic\n```\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "56": {
+      "uid": 56,
+      "key": [
+        "Ring of Sensual Fortune",
+        "Casper's First Ring"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "```\nA silver ring adorned by a pink sapphire stone, crudely shaped into a heart. It increases the wearer's natural luck proficiency, at a cost of benign indecent & smutty happenstances occurring from time to time:\n+2 Luck\nUser is subjected to smutty events periodically\n```\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "57": {
+      "uid": 57,
+      "key": [
+        "Adventurer's Guild"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "![[Adventurer's Guild.png]]\nAdventurer's Guild is an esteemed organization that binds together brave souls from all walks of life. Nestled within every corner of this vast world, its reputation stretches far and wide.\nWithin its walls, you'll often find a bustling hub where adventurers congregate to seek out quests, that range from mundane tasks to perilous expeditions. From assisting citizens in need to facing off against ferocious monsters.\nThe guild employs a unique rank system represented by precious metal plates - each glistening plaque symbolizing the adventurer's prowess and accomplishments. From copper to silver, from silver to gold - and perhaps even beyond - the rarity of the metal plate signifies not only status but also serves as an acknowledgement of skill honed through countless trials.\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "58": {
+      "uid": 58,
+      "key": [
+        "Arcane Wanderer's Caravan"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "Serpent Silk Caravan travels from city to city like a mirage in the desert winds. Picture it: colourful tents adorned with intricate tapestries line up in a bustling square. The air is filled with exotic scents - spices and perfumes wafting through the crowds. As you approach, your eyes are drawn to opulent displays of trinkets and baubles that catch the light and mesmerize.\nThe sound of laughter mingles with enchanting melodies played on foreign instruments as traders from distant lands showcase their wares. A group of mercenaries stands tall near the caravan's edge, their keen eyes surveying potential clients for their protective services.\nBut it's not just luxury and merchandise that they offer; within their magical enclave, skilled enchanters weave spells into amulets and weapons that shimmer with ethereal power. They are masters at guarding merchants on treacherous journeys through unknown territories.\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "59": {
+      "uid": 59,
+      "key": [
+        "Arcane Wanderer"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "A legendary sage known as the Arcane Wanderer. His visage was weathered by countless journeys, and his eyes sparkled with knowledge.\nThe Arcane Wanderer delved into the mysteries of Blue Magic, unlocking its deepest secrets. But he yearned for something more - to forge a connection between Blue Magic and Fire Magic. Through relentless study and determination, he developed an innovative form of magic that bathed his spells in a captivating orange glow.\nThis amalgamation came to be known as Desert Arcane Magic or Orange Magic - a practice that had long fallen out of favour within the Human Kingdoms.\nAs word spread of his remarkable abilities, so too did tales of his wandering nature. During the twilight years of his life, he established his own Caravan - a sanctuary for knowledge-seekers and aspiring mages alike.\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "60": {
+      "uid": 60,
+      "key": [
+        "Church of Dusk and Dawn"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "The Church of Dusk and Dawn stands as an unyielding pillar in the realm of Camellia\u00e2\u20ac\u201da bastion of faith and devotion that reaches to every corner of society. Emanating its influence throughout all human kingdoms, it provides a spiritual sanctuary in the name of their revered deity, the God of Dusk and Dawn.\nFrom grand cathedrals to humble chapels, each adorned with dual motifs symbolizing both darkness and light, these sacred structures serve as beacons drawing faithful worshippers seeking solace and redemption.\nThroughout the day, ceremonial rituals unfold twice\u00e2\u20ac\u201donce during dawn's gentle embrace and once as dusk blankets the sky\u00e2\u20ac\u201dwhich embody the duality inherent within their god.\nWeary souls find respite within the hallowed walls of this venerable institution. Here they seek redemption from past transgressions, or absolution for sins heavy upon their conscience.\nThe Church serves not only as a spiritual refuge but also as caretakers, nurturing communities through acts borne out of compassion: healing wounds physical and emotional alike; offering guidance; providing shelter for those bereft; extending a helping hand where one is needed most.\nIn this ever-evolving world where humans strive toward unity amid opposing forces, darkness cannot exist without light and light without darkness.\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "61": {
+      "uid": 61,
+      "key": [
+        "God of Dusk and Dawn",
+        "Vesper"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "Born from an unprecedented union between two brothers gifted in opposing realms of magic - one aligned with Dark Magic and the other with Light Magic - Vesper's origins were as unique as his path ahead. Raised within an all-loving family during times of fleeting peace and stability, his world was abruptly shattered by a devastating Demon Invasion and internal strife within the Human Kingdom.\nTragedy struck when fellow humans turned against his family, for their allegiance to a different God. In this darkest hour, Vesper's latent powers awakened. The forces of Dark Magic clashed relentlessly with those of Light Magic inside him, threatening to consume him entirely.\nBut it was through sheer force of will that he harnessed these contradictory forces within, forming an organization that unified all men in the kingdom. Guided by unwavering resolve and wielding both dark enchantments during daylight hours and sacred light at nightfall, he embarked on countless crusades against demons.\nThrough courage and sacrifice unparalleled, Vesper led his brethren into battle against the Demon Queen herself. It was in that final clash that he laid down his life to absolve humanity from its dark energy. And so he succeeded.\nIn honour of their fallen hero-turned-deity, his brotherhood transformed into what is now known as the Church of Dusk and Dawn. Its followers revere him as the God of Dusk and Dawn\u00e2\u20ac\u201dpaying homage to both sides equally, while giving reverence to Vesper's relentless pursuit for unity among mankind.\nWith darkness banished from their hearts, the Church of Dusk and Dawn embraces their newfound faith in the everlasting light that breaks through the twilight skies\u00e2\u20ac\u201da testament to Vesper's enduring legacy.\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "62": {
+      "uid": 62,
+      "key": [
+        "The Dawn Paladins"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "As dawn breaks over the horizon, a select few rise in unison, their hearts aflame with unwavering devotion. These are The Dawn Paladins - holy men and women aligned with potent forces of Light Magic, that have surged within humanity after the selfless sacrifice of the God of Dusk and Dawn.\nSwearing fealty to their god, they undergo rigorous training, that forges them into an indomitable force, under the watchful eye of the church. Clad in gleaming armour, adorned by sacred Dawn symbols and bearing snow-shite robes, they stand as symbols of Vesper's purity and selflessness.\nWhen a lost soul cries out for guidance or an agonized heart yearns for solace, it is The Dawn Paladins who answer that call. Armed not only with blades tempered by faith, but also wielding potent Light Magic capable of mending even shattered bones and restoring lost limbs.\nUnderneath their holy banner, they bring divine retribution upon monsters and evildoers, who dare to threaten peace and harmony among mortals.\nWhen a Paladin's hand reaches out to you - a touch filled with warmth and gentle strength - all fears fade away; apprehensions give way to trust in aid received from above.\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "63": {
+      "uid": 63,
+      "key": [
+        "The Dusk Paladins"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "An elusive sister organization to The Dawn Paladins, known as The Dusk Paladins. Born from scarcity, for those aligned with Dark Magic were a rarity after the selfless act of the God of Dusk and Dawn, their numbers remained few but formidable.\nCloaked in secrecy and shrouded in darkness, these well-trained individuals slip into action under cover of nightfall. Their expertise lies not in healing or acts of great heroism like their counterparts, but rather within the realm of shadows\u00e2\u20ac\u201dgathering vital intelligence, extracting information through skilled interrogation techniques, and dealing with matters most foul.\nClad in raven robes adorned with inverse symbols of dawn upon their armour, they bear a mark that sets them apart from all others. *Underneath the moon's watchful gaze,* they unleash their mastery over Dark Magic and even dabble in forbidden Hexes\u00e2\u20ac\u201da testament to their embrace of both sides of their god.\n*Crossing paths with a Dusk Paladin during daylight hours is said to bring ill fortune.* They move through society like phantoms, lurking where secrets are whispered and shady dealings thrive. When they stand before you\u00e2\u20ac\u201dgrave whispers hanging heavy on their lips\u00e2\u20ac\u201dyou best have your story straight, or face *the wrath that channels Vesper's unsleeping vigilance.*\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "64": {
+      "uid": 64,
+      "key": [
+        "Mage Association",
+        "Mage Guild"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "![[Mage Association.png]]\nAn institution that bears semblance to a prestigious university - a bastion of intellect and magical expertise. Entering its doors requires surpassing rigorous and selective entrance examinations.\nWithin the Association's walls lies a treasure trove of wisdom waiting to be unveiled - the accumulated knowledge passed down from generation to generation of sages. The Association's scholars dedicate their lives not only to understanding, but also striving towards new horizons in Royal Magic.\nThe Mage Association is more than just an educational sanctuary - it wields influence that extends far beyond its ivory towers. In most human settlements across Camellia, they have a say in many investitures, such as Archmage promotions, who often oversee cities and smaller towns.\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "65": {
+      "uid": 65,
+      "key": [
+        "Warrior's Guild",
+        "Fighter's Guild"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "An esteemed organization known as the Warrior's Guild - an order deeply rooted in tradition. Their expertise extends far and wide, encompassing a vast array of combat arts that have been passed down through generations.\nFrom royal knights to upcoming adventurers, those who demonstrate exceptional skill and potential, find themselves under the watchful guidance of this renewed guild.\nThe pages of history are inked with their indelible presence - a testament to their enduring legacy, that stretches far back to the first human settlements within this vibrant world.\nThe Warrior's Guild takes great pride in organizing thrilling combat tournaments, where warriors from every corner gather to showcase their mettle before eager spectators.\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "66": {
+      "uid": 66,
+      "key": [
+        "Camellia",
+        "The World",
+        "Our World",
+        "Planet"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "Camellia, the realm where our story unfolds, is a world brimming with magic and wonder. It is a place where magic courses through the very fabric of existence. Everywhere you turn, fantastical creatures roam and secrets lie waiting to be unveiled. The mysteries within this realm are so deep and profound that they stretch beyond mortal comprehension.\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "67": {
+      "uid": 67,
+      "key": [
+        "Timeline",
+        "History"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "In the distant past, Camellia flourished with a harmonious coexistence between multiple species. Elves moved gracefully through their forest abodes, while Dwarves carved magnificent structures within mountains. A unique breed of humans deeply immersed themselves in sorcery, honing their magical abilities with unwavering devotion.\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "68": {
+      "uid": 68,
+      "key": [
+        "Humans",
+        "Human"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "A resolute race that refuses to be erased from this world. A diverse and ever-evolving people, they possess an innate curiosity and drive for knowledge that propels them forward in various endeavours.\nIn their pursuit of mastery, humans excel in myriad fields. Some specialize in magic, delving deep into the truths of this world and unlocking extraordinary powers through intense study and practice. Others have become pioneers in technology, harnessing steam and oil to create wondrous inventions that push the boundaries of what is possible.\nIt is through their individuality that humans truly shine. From fearless warriors who stand at the forefront of battlefields to wise sages whose wisdom illuminates even the darkest corners - it is their ingenuity, adaptability, and diversity that have forged legends within Camellia.\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "69": {
+      "uid": 69,
+      "key": [
+        "Arcanians",
+        "Arcanian"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "The Arcanians are a breed of humans who delved deeply into sorcery, embracing its transformative power. Ancient texts reveal that they unlocked arcane knowledge through relentless study and experimentation. These gifted individuals possess an unparalleled understanding *of magic,* leaping beyond traditional boundaries to master spells across various elemental domains.\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "70": {
+      "uid": 70,
+      "key": [
+        "Elves",
+        "Elf"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "Elves, beings of ethereal grace and timeless beauty, call the forests their home. With their pointed ears, luminous eyes, and slender figures, they possess a deep bond with nature. Born with innate magical abilities, they channel the energy of the natural world to wield powerful spells. Elves are wise and attuned to the ebb and flow of life around them.\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "71": {
+      "uid": 71,
+      "key": [
+        "Dwarves",
+        "Dwarf"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "Deep within the heart of mountains, Dwarves sculpt extraordinary feats of architecture. Known for their stocky physique *and impressive beards,* these hardy beings have an affinity for craftsmanship unmatched by any other race in Camellia. They excel in mining precious ores from the earth and fashioning them into intricate works of art.\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "72": {
+      "uid": 72,
+      "key": [
+        "Demons",
+        "Demon"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "Within this vast array lie the Demons - a diverse species encompassing Vampires, Succubi, Lamia, Arachne, Harpies, and more - these humanoids exhibit traits both captivating and terrifying. They hail from different realms but have converged upon Camellia due to its rich magical energies. Each Demon possesses unique powers aligned with their nature; some feed on blood, while others seduce victims with unearthly charm.\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "73": {
+      "uid": 73,
+      "key": [
+        "Tamiel",
+        "Human Capital"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "Tamiel is the jewel amidst the Human Kingdom's Crown - the very heartbeat of human civilization. Underneath the watchful gaze of Kings, Queens, and the City's Council, this **capital** has flourished into a place that rivals even dreams with its prosperity.\nLet not this golden image deceive your discerning eyes, for perfection hides in shadows cast by flickering torches. In the depths of poorer districts, fear whisper on twilight breezes - when evening descends upon these cobblestoned streets, it is prudent to avoid wandering alone.\nNo place can truly boast absolute perfection - such is nature's balance we struggle against.\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "74": {
+      "uid": 74,
+      "key": [
+        "D&D Rules",
+        "Dice Rolls"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "This little document explains how die rolls in this story work. This is a custom implementation of D&D dice. You preferably need a D100 die.\nLet's see how the system works on an example.\nThis is Eden's ability Power Sheet:\n```\nMelee Power: 20 + 2\nFire Magic Power: 15 + 1\nEnhacement School Magic Power: 15\n```\nEden has base stats for her abilities and small bonuses, that represent her growth as a character or equipment bonuses.\nEden wants to deliver a strike to a Skeleton monster, so we take her melee power (20 + 2 = 22) into consideration. You roll the D100 **twice**, and take whatever outcome you consider more advantageous:\n```\n0-11: Eden delivers a masterful strike.\n12-22: Eden delivers a precise strike.\n23-44: Eden manages to hit the monster.\n45-66: Eden misses her strike.\n>66: Eden misses her strike, and is thrown out of balance.\n```\nI will do 2 D100 rolls now to present this system:\n1. I roll 63, 36.\n2. 36 represents a better outcome.\n3. 36 is within this range 23-44.\n4. Eden manages to hit the monster.\nCombat checks are based on the power stats, and all other checks are based on the character's stats.\nBaseline for a stat/power stat is 10, which guarantees a 20%, chance of success, but remember that you normally roll 2 times, so this chance is much higher.\nIf an activity is easy, you may roll your die 1 additional time (3 times in total), if an activity is hard, you may roll your die only 1 time.\nIf you have any doubts, refer to these graphs:\n![[non_failure_chance_plot_1_rolls.png]]\n![[non_failure_chance_plot_2_rolls.png]]\n![[non_failure_chance_plot_3_rolls.png]]\nDND Helper Sheet for 2 rolls:\n```\nBase Stat | Non-Failure Chance\n        1 |              7.84%\n        2 |             11.64%\n        3 |             15.36%\n        4 |             19.00%\n        5 |             22.56%\n        6 |             26.04%\n        7 |             29.44%\n        8 |             32.76%\n        9 |             36.00%\n       10 |             39.16%\n       11 |             42.24%\n       12 |             45.24%\n       13 |             48.16%\n       14 |             51.00%\n       15 |             53.76%\n       16 |             56.44%\n       17 |             59.04%\n       18 |             61.56%\n       19 |             64.00%\n       20 |             66.36%\n       21 |             68.64%\n       22 |             70.84%\n       23 |             72.96%\n       24 |             75.00%\n       25 |             76.96%\n       26 |             78.84%\n       27 |             80.64%\n       28 |             82.36%\n       29 |             84.00%\n       30 |             85.56%\n       31 |             87.04%\n       32 |             88.44%\n       33 |             89.76%\n       34 |             90.39%\n       35 |             91.59%\n       36 |             92.71%\n       37 |             93.75%\n       38 |             94.71%\n       39 |             95.59%\n       40 |             96.39%\n       41 |             97.11%\n       42 |             97.75%\n       43 |             98.31%\n       44 |             98.79%\n       45 |             99.19%\n       46 |             99.51%\n       47 |             99.75%\n       48 |             99.91%\n       49 |             99.99%\n       50 |            100.00%\n```\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "75": {
+      "uid": 75,
+      "key": [
+        "Magic",
+        "Magick"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "In the realm of Camellia, magic is not merely an ephemeral concept, but a tangible force woven into the very fabric of reality. Mana, the earthly energy that flows through all living and non-living beings alike, serves as the conduit for those who seek to wield magic.\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "76": {
+      "uid": 76,
+      "key": [
+        "Origin of Magic",
+        "Void Magic"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "At its core, all magic in Camellia traces its origin back to Void Magic - a primordial power that splits into two distinct branches: Light and Dark. While manipulation of Void Magic itself remains mostly theoretical, some extraordinary individuals from time immemorial have defied convention by tapping into its immense potential.\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "77": {
+      "uid": 77,
+      "key": [
+        "Light Magic",
+        "Dark Magic"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "Light Magic and Dark Magic require a special affinity from their practitioners. Although Light Magic prevails as widely accepted due to its benevolent nature, Dark Magic finds itself shrouded in controversy and often frowned upon in most realms across Camellia. It is widely known that Light Magic cannot exist without its counterpart, but people still hold an unfounded grudge towards it, especially after the God of Dusk and Dawn has absolved all human races from most of their Dark Energy.\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "78": {
+      "uid": 78,
+      "key": [
+        "Royal Magic",
+        "Blue Magic"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "Royal Magic, often known as Blue Magic due to its distinctive azure hue, is a manifestation of refined artistry that draws upon Void Magic and harnesses the purity of Light Magic. Once shrouded in exclusivity within royal circles, these spells have now found their way into human schools, where eager minds delve into their intricate secrets.\nWithin the realm of Royal Magic, different schools have emerged, each focusing on specific aspects of mastery over reality.\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "79": {
+      "uid": 79,
+      "key": [
+        "Alteration School",
+        "Alteration Magic"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "Masters of Alteration wield their expertise to manipulate the very fabric of the physical realm. They possess an uncanny aptitude for shaping objects and protecting against other forms of magic. Legends speak of awe-inspiring feats such as walking atop water or levitating through sheer focus - an irrefutable testament to Alteration's profound influence.\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "80": {
+      "uid": 80,
+      "key": [
+        "Enhancement School",
+        "Enhancement Magic"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "This school delves into spells that augment the very essence of one's being, whether for noble or nefarious purposes. Among the royally affiliated Knights, enhancing combat capabilities such as speed, reflexes, and strength has long been a popular pursuit.\nHowever, it is worth noting that many tournaments have stipulations prohibiting the use of Enhancement magic due to its propensity for creating imbalances between contestants. The desire for fair competition often supersedes even the allure of augmented abilities.\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "81": {
+      "uid": 81,
+      "key": [
+        "Illusion School",
+        "Illusion Magic"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "Illusionists entrancingly tinker with perceptual boundaries by delving into realms beyond mere sight. With their formidable skills at hand, they obscure truths, sow confusion within unsuspecting minds, silence voices at will, and even command people under the guise of ethereal manipulation. Among their legendary accomplishments is the fabled ability to render oneself invisible - a captivating demonstration indeed.\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "82": {
+      "uid": 82,
+      "key": [
+        "Dimension School",
+        "Dimension Magic"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "Dimensional experts hold dominion over secret dimensions woven beyond conventional reality's grasp. By harnessing this esoteric power, they create pocket realms capable of storing items or even bending natural laws themselves. The pinnacle achievement among them is unquestionably teleportation - an extraordinary feat bestowing unrivalled freedom.\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "83": {
+      "uid": 83,
+      "key": [
+        "Sexual School",
+        "Sexual Magic"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "As energy in the world of Camellia can be harnessed and moulded for any possible use, it is no surprise that magic specialized in bringing oneself pleasure has emerged. The Sexual School of Royal magic is seldom talked about, but as of recently its scholars have concerned themselves about creating Sexual Spells, that are more accessible to the public. The most well known spell from this school is of course the Birth Control Spell, allowing raw intercourse. Other variant spells are used for dealing with sexually transmitted diseases, or rather protecting against them, and heightening one's senses to give way for far greater pleasure.\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "84": {
+      "uid": 84,
+      "key": [
+        "Hexes",
+        "Hex",
+        "Forbidden Magic",
+        "Purple Magic"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "The forbidden enigma within the world of magic. Born from the fusion of Void Magic and Dark Magic, they stand as a representation of uncharted depths and hidden potential. In both theory and practice, Hexes possess the ability to mimic the very same functions found within Royal Magic.\nHeld in contempt by society at large, it is believed that Hexes hold the potential to corrupt and destroy everything found in their wake.\nOver time, only one school that managed to survive in the human world, amidst this sea of disdain, is Conjuration or Necromancy - an art steeped in mystery and whispered tales.\nAlthough Hex wielders are considered to be an extinct breed in the human world, many schools of this type of magic have emerged in the Demon Realm.\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "85": {
+      "uid": 85,
+      "key": [
+        "Succubi School",
+        "Succubi Magic"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "One of the most prominent and well known School of Hexes, amidst the human race. This School of Demon Magic can be likened to an amalgamation of the Royal School of Illusion and Sexual Magic. Spells created by the Succubi serve boil down to one simple purpose - to deceive heedless humans and drain them of their precious life-giving energy, with mind-shattering pleasure. A popular spell studied once by the humans was told to increase sexual potency and fertility in both human males and females.\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "86": {
+      "uid": 86,
+      "key": [
+        "Deep Magic",
+        "Dark Blue Magic"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "A hidden enigma, shrouded in secrecy and whispered only in hushed tones among the ancients. Born from an extraordinary fusion between Royal Magic and Hexes, this esoteric form of magic remains unknown to even the wisest elders who have dedicated their lives to its study.\nCharacterized by its deep, dark blue hue that mirrors the midnight sky, Deep Magic houses forbidden spells of immense destructive power - able to rend even gods asunder. The delicate alliance between Royal Magic and Hexes grants practitioners unfettered access to manipulating Mana Energy itself, empowering them to infuse their custom-crafted spells with infinite might.\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "87": {
+      "uid": 87,
+      "key": [
+        "Elemental Magic",
+        "Natural Magic"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "Delving deeper into elemental manipulation, mages channel both Light and Dark magic to command fire, water, wind, ice, lightning, and earth. While Light magic offers mastery over control and creation of Elemental Energy itself, Dark magic imbues it with potent might.\nThough blessed with an innate proficiency in harnessing elemental forces, the people remain blissfully ignorant of their connection to Dark Magic - the forbidden strand that intertwines with their spells. Masked by societal disapproval, this clandestine knowledge evades even the most knowledgeable teachers, who dare not pass it on.\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    },
+    "88": {
+      "uid": 88,
+      "key": [
+        "Magic Affinity",
+        "Use of Magic",
+        "Practice of Magic"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "The people of Camellia are born with affinities towards specific types of magic; however, diligent training grants one access to harnessing and mastering other forms aside from these innate abilities. Yet there exist complex classifications such as Royal Spells or enigmatic Hexes that extend beyond traditional elemental boundaries.\n",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 100,
+      "position": 0,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true
+    }
+  }
+}
